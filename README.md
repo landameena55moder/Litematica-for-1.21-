@@ -1,6 +1,4 @@
 # Litematica Mod (1.21.3) – Extra Functionality for Creative Mode
-![GitHub issues](https://img.shields.io/github/issues-raw/aleksilassila/litematica-printer)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/aleksilassila/litematica-printer)
 ![GitHub all releases](https://img.shields.io/github/downloads/aleksilassila/litematica-printer/total)
 ![GitHub Repo stars](https://img.shields.io/github/stars/aleksilassila/litematica-printer)
 
