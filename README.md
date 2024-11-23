@@ -24,7 +24,7 @@ Note: If you have Fabric installed, then there are some options that you most li
     - Fast Render might also need to disable if there is still some weird HUD/GUI rendering issues
 ## Screenshots
 
-! [image](https://imgur.com/a/JC19aQn)
+![image](https://imgur.com/a/JC19aQn)
 ![image]()
 ![image]()
 ![image]()
