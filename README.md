@@ -4,13 +4,10 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/aleksilassila/litematica-printer/total)
 ![GitHub Repo stars](https://img.shields.io/github/stars/aleksilassila/litematica-printer)
 
-This extension adds printing functionality for [Litematica fabric](https://github.com/maruohon/litematica). Printer
-allows players to build big structures more quickly by automatically placing the correct blocks around you.
-
-![Demo](printer_demo.gif)
+This extension adds printing functionality for Litematica fabric.
 
 ## Installation 
-1. Download and install [Fabric](https://fabricmc.net/use/installer/) if you haven't already.
+1. Download and install Fabric if you haven't already.
 2. [Download]() the latest Litematica Printer release for your Minecraft version from the releases.
 3. Place the downloaded .jar files in your `mods/` folder.
 
