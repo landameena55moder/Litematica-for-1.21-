@@ -11,7 +11,7 @@ allows players to build big structures more quickly by automatically placing the
 
 ## Installation 
 1. Download and install [Fabric](https://fabricmc.net/use/installer/) if you haven't already.
-2. [Download]() the latest Litematica Printer release for your Minecraft version from the releases.
+2. * [Download]() the latest Litematica Printer release for your Minecraft version from the releases.
 3. Place the downloaded .jar files in your `mods/` folder.
 
 ## How to use
@@ -24,7 +24,7 @@ Note: If you have Fabric installed, then there are some options that you most li
     - Fast Render might also need to disable if there is still some weird HUD/GUI rendering issues
 ## Screenshots
 
-![image](https://imgur.com/a/JC19aQn)
+*[image](https://imgur.com/a/JC19aQn)
 ![image]()
 ![image]()
 ![image]()
