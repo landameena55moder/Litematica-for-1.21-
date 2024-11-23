@@ -1,6 +1,5 @@
 # Litematica Mod (1.21.3) – Extra Functionality for Creative Mode
 ![GitHub all releases](https://img.shields.io/github/downloads/aleksilassila/litematica-printer/total)
-![GitHub Repo stars](https://img.shields.io/github/stars/aleksilassila/litematica-printer)
 
 This extension adds printing functionality for Litematica fabric.
 
